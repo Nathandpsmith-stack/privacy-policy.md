@@ -19,7 +19,6 @@ We may also automatically collect limited technical information, such as:
 - Device type
 - Operating system
 - App usage information
-- Crash reports and performance information
 
 ## 2. How We Use Your Information
 
@@ -45,13 +44,18 @@ We may share information only when necessary to:
 - Protect the rights, safety, and security of DancePlan and its users
 
 ## 5. Third-Party Services
+DancePlan uses trusted third-party service providers to operate certain features of the app. These providers may process information only as necessary to provide their services.
+Purchases and subscriptions are securely processed by Apple. DancePlan does not collect or store payment card information.
 
-DancePlan may use third-party services that help provide app functionality, analytics, authentication, payments, or other services. These services may collect information according to their own privacy policies.
+• Apple (App Store purchases and subscription billing)
+• RevenueCat (subscription management)
+• Hosting providers (if applicable)
+
+Purchases and subscriptions are securely processed by Apple. DancePlan does not collect or store payment card information.
 
 Examples may include:
 - Apple services
 - Hosting providers
-- Analytics providers
 - Payment processing services (if applicable)
 
 ## 6. Your Choices and Rights
@@ -63,7 +67,7 @@ You may request to:
 
 To request assistance, contact us at:
 
-[YOUR SUPPORT EMAIL]
+Nathan.goat117@gmail.com
 
 ## 7. Children’s Privacy
 
@@ -78,7 +82,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have questions about this Privacy Policy, please contact:
 
 DancePlan Support  
-Email: [YOUR EMAIL]  
-Support URL: [YOUR SUPPORT URL]
+Email: Nathan.goat117@gmail.com 
+Support URL: https://github.com/Nathandpsmith-stack
 
 Thank you for using DancePlan.
