@@ -1,4 +1,4 @@
-# privacy-policy.md
+
 Privacy Policy for DancePlan — Learn how DancePlan collects, uses, and protects user information while providing dance organization and budgeting tools.
 # DancePlan
 # Privacy Policy for DancePlan
@@ -51,7 +51,6 @@ Purchases and subscriptions are securely processed by Apple. DancePlan does not 
 • RevenueCat (subscription management)
 • Hosting providers (if applicable)
 
-Purchases and subscriptions are securely processed by Apple. DancePlan does not collect or store payment card information.
 
 Examples may include:
 - Apple services
@@ -83,6 +82,6 @@ If you have questions about this Privacy Policy, please contact:
 
 DancePlan Support  
 Email: Nathan.goat117@gmail.com 
-Support URL: https://github.com/Nathandpsmith-stack
+Support URL: https://github.com/Nathandpsmith-stack/privacy-policy.md
 
 Thank you for using DancePlan.
