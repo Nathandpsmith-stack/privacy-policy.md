@@ -82,6 +82,8 @@ If you have questions about this Privacy Policy, please contact:
 
 DancePlan Support  
 Email: Nathan.goat117@gmail.com 
+
+
 Support URL: https://github.com/Nathandpsmith-stack/privacy-policy.md
 
 Thank you for using DancePlan.
